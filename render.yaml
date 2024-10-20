@@ -9,5 +9,5 @@ services:
     envVars:
       - key: PORT # ngrok port
         value: 22
-      - key: NGROK_TOKEN # ngrok token
+      - key: JTpvCyHMtDFrLPh2uS54X9omGijRNazqs # ngrok token
         sync: false
